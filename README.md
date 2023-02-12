@@ -19,7 +19,7 @@ I hope they are useful to you.
 
 
 
-# Resources
+# Resources Library
 
 ## AWS
 
@@ -27,21 +27,21 @@ I hope they are useful to you.
 | --|-- |-- |
 |<img src="images/aws/AWS-Interview-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/aws/Implementing-DevSecOps-in-AWS.jpg" alt="gitlitlab" width="180" height="250"/> |   <img src="images/aws/AWS-Certified-Solutions-Architect-Associate-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
-|[AWS Services as SketchBook](resources/aws/AWS-Services-as-Sketchbook.pdf) | [AWS Cloud Practitioner Exam Guide](resources/aws/AWS-Cloud-Practitioner-Exam-Guide.pdf) |     
-| --|-- |
-|  <img src="images/aws/AWS-Services-as-Sketchbook.jpg" width="180" height="250"/> | <img src="images/aws/AWS-Cloud-Practitioner-Exam-Guide.jpg" width="180" height="250"/> | 
+|[AWS Services as SketchBook](resources/aws/AWS-Services-as-Sketchbook.pdf) | [AWS Cloud Practitioner Exam Guide](resources/aws/AWS-Cloud-Practitioner-Exam-Guide.pdf) |     |
+| --|-- |-- |
+|  <img src="images/aws/AWS-Services-as-Sketchbook.jpg" width="180" height="250"/> | <img src="images/aws/AWS-Cloud-Practitioner-Exam-Guide.jpg" width="180" height="250"/> | Add in `Readme.md` |
 
 ## AZURE
 
-| [Azure DevOps Complete CICD Pipeline Practical Guide](resources/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.pdf) |      
-| --|
-|<img src="images/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.jpg" width="180" height="250"/> | 
+| [Azure DevOps Complete CICD Pipeline Practical Guide](resources/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.pdf) |   |   
+| --| --|
+|<img src="images/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.jpg" width="180" height="250"/> | Add in `Readme.md` |
 
 ## GCP
 
-| [A Comlete Guide to GCP](resources/gcp/A-Comlete-Guide-to-GCP.pdf) |      
-| --|
-|<img src="images/gcp/A-Comlete-Guide-to-GCP.jpg"  width="180" height="250"/> | 
+| [A Comlete Guide to GCP](resources/gcp/A-Comlete-Guide-to-GCP.pdf) |      |
+| --| --|
+|<img src="images/gcp/A-Comlete-Guide-to-GCP.jpg"  width="180" height="250"/> | Add in `Readme.md` |
 
 ## DevOps 
  
@@ -54,6 +54,9 @@ I hope they are useful to you.
 | --| --| --| 
 |<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" width="180" height="250"/> |<img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/250-Practice-Questions-For-Terraform-Associate-Certification.jpg" alt="gitlitlab" width="180" height="250"/> |
 
+| |  
+| --| 
+|Add in `Readme.md`|
 
 # Connect with me 📫 You can learn more about me
 
