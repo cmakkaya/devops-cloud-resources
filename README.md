@@ -27,7 +27,7 @@ I hope they are useful to you.
 
 ## AZURE
 
-| [Azure DevOps Complete CICD < br > Pipeline Practical Guide](resources/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.pdf) |      
+| [Azure DevOps Complete CICD Pipeline Practical Guide](resources/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.pdf) |      
 | --|
 |<img src="images/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
