@@ -23,7 +23,7 @@ I hope they are useful to you.
 
 | [AWS-Interview-Guide](resources/aws/AWS-Interview-Guide.pdf) | [Implementing DevSecOps in AWS](resources/aws/Implementing-DevSecOps-in-AWS.pdf) |[Awesome AWS Sketchbook](resources/aws/Awesome-AWS-Sketchbook.pdf.pdf) | [AWS Certified Solutions Architect Associate Guide](resources/aws/AWS-Certified-Solutions-Architect-Associate-Guide.pdf) |     
 | -----|----- |----- |----- |
-|<img src="images/aws/AWS-Interview-Guide.jpg" alt="gitlitlab" height="250"/> | <img src="images/aws/Implementing-DevSecOps-in-AWS.jpg" alt="gitlitlab" height="250"/> |  <img src="images/aws/Awesome-AWS-Sketchbook.pdf.jpg" alt="gitlitlab" height="250"/> | <img src="images/aws/AWS-Certified-Solutions-Architect-Associate-Guide.jpg" alt="gitlitlab" height="250"/> | 
+|<img src="images/aws/AWS-Interview-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/aws/Implementing-DevSecOps-in-AWS.jpg" alt="gitlitlab" width="180" height="250"/> |  <img src="images/aws/Awesome-AWS-Sketchbook.pdf.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/aws/AWS-Certified-Solutions-Architect-Associate-Guide.jpg" alt="gitlitlab" height="250"/> | 
 
 ## AZURE
 
@@ -35,15 +35,18 @@ I hope they are useful to you.
 
 | [A Comlete Guide to GCP](resources/gcp/A-Comlete-Guide-to-GCP.pdf) |      
 | -----|
-|<img src="images/gcp/A-Comlete-Guide-to-GCP.jpg" alt="gitlitlab" height="250"/> | 
+|<img src="images/gcp/A-Comlete-Guide-to-GCP.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
 ## DevOps 
  
-| [Learning ansible](resources/devops/ansible-learning.pdf) |   [The State of DevOps tools](resources/devops/The-State-of-DevOps-tools.pdf) | [Top DevOps Interview Questions](resources/devops/Top-DevOps-Interview-Questions.pdf) |  [Kubernetes Best Practices](resources/devops/Kubernetes-Best-Practices.pdf) |[Docker & Docker Swarm](resources/devops/Docker&Docker-Swarm.pdf) | [250 Practice Questions For Terraform Associate Certification](resources/devops/250-Practice-Questions-For-Terraform-Associate-Certification.pdf) |  
-| -----| -----| -----| -----| -----| -----|
-|<img src="images/devops/ansible-learning.jpg" alt="gitlitlab" height="250"/> | <img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" height="250"/> | <img src="images/devops/Top-DevOps-Interview-Questions.jpg" alt="gitlitlab" height="250"/> | <img src="images/devops/Kubernetes-Best-Practices.jpg" alt="gitlitlab" height="250"/> |<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" height="250"/> | <img src="images/devops/250-Practice-Questions-For-Terraform-Associate-Certification.jpg" alt="gitlitlab" height="250"/> |
+| [Learning ansible](resources/devops/ansible-learning.pdf) |   [The State of DevOps tools](resources/devops/The-State-of-DevOps-tools.pdf) | [Top DevOps Interview Questions](resources/devops/Top-DevOps-Interview-Questions.pdf) |  [Kubernetes Best Practices](resources/devops/Kubernetes-Best-Practices.pdf) | [250 Practice Questions For Terraform Associate Certification](resources/devops/250-Practice-Questions-For-Terraform-Associate-Certification.pdf) |  
+| -----| -----| -----| -----| -----| 
+|<img src="images/devops/ansible-learning.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/Top-DevOps-Interview-Questions.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/Kubernetes-Best-Practices.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/250-Practice-Questions-For-Terraform-Associate-Certification.jpg" alt="gitlitlab" width="180" height="250"/> |
 
 
+[Docker & Docker Swarm](resources/devops/Docker&Docker-Swarm.pdf) |   
+| -----| 
+|<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
 
 # Connect with me 📫 You can learn more about me
