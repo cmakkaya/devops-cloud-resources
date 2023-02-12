@@ -5,7 +5,7 @@
 ## About This Repository
 
 
-You may find  the resources (books, notes, interview questions, exam questions, cheatsheet, whitepaper, guide, handson, handbook,   etc.) about [DevOps]() and [Cloud System]().
+You may find  the resources (books, notes, interview questions, exam questions, cheatsheet, whitepaper, guide, handson, handbook,   etc.) about  `DevOps`  and  `Cloud System`.
 
 In this repository, I am adding useful resources here to reach them when I need, and also maybe they can be helpful for others.
 
@@ -27,7 +27,7 @@ I hope they are useful to you.
 
 ## AZURE
 
-| [Azure DevOps Complete CICD Pipeline Practical Guide](resources/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.pdf) |      
+| [Azure DevOps Complete CICD < br > Pipeline Practical Guide](resources/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.pdf) |      
 | --|
 |<img src="images/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
@@ -48,9 +48,6 @@ I hope they are useful to you.
 | --| --| 
 |<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" width="180" height="250"/> |<img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
-| Topic  | Description | GCPSketchnote Video | GCPSketchnote Image | Other Links |
-| ------ | ----------- |---------------------|-----------|---|
-| **Next 2020 Summary Announcements** | Summary NEXT2020 | [<img src="https://img.youtube.com/vi/7OBTwoBZ404/sddefault.jpg" width=200>](https://www.youtube.com/watch?v=7OBTwoBZ404&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="/images/NEXT2020.jpg" width=1100>](https://thecloudgirl.dev/NEXT2020.html) | [<sup>:link:</sup>](https://cloud.google.com/blog/topics/google-cloud-next/complete-list-of-announcements-from-google-cloud-next20-onair)  |
 
 # Connect with me 📫 You can learn more about me
 
