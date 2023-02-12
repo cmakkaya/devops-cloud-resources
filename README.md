@@ -5,17 +5,19 @@
 ## About This Repository
 
 
-You may find  the resources (books, notes, interview questions, exam questions, cheatsheet, whitepaper, guide, handson, handbook,   etc.) about  `DevOps`  and  `Cloud System`.
+You may find resources (books, notes, interview questions, exam questions, cheat sheets, whitepapers, guides, hands-on, handbooks, etc.) about  `DevOps`  and  `Cloud System`.
 
-In this repository, I am adding useful resources here to reach them when I need, and also maybe they can be helpful for others.
+In this repository, I am adding useful resources here to reach them when I need them, and also maybe they can be helpful to others.
 
-You can also contribute by adding new resources to the repository, 
+You can also contribute by adding new resources to the repository,
 
-I will try to add new resources to the repository regularly, and I will announce on my linkedin account.
+I will try to add new resources to the repository regularly, and I will announce them on my linkedin account.
 
-Don't forget to follow to [my linkedin](https://www.linkedin.com/in/cumhurakkaya/) or github account to be informed about new updates in repository.
+Don't forget to follow [my linkedin](https://www.linkedin.com/in/cumhurakkaya/) or GitHub account to be informed about new updates in the repository.
 
 I hope they are useful to you.
+
+
 
 # Resources
 
