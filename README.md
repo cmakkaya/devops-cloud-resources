@@ -39,14 +39,14 @@ I hope they are useful to you.
 
 ## DevOps 
  
-| [Learning ansible](resources/devops/ansible-learning.pdf) |   [The State of DevOps tools](resources/devops/The-State-of-DevOps-tools.pdf) | [Top DevOps Interview Questions](resources/devops/Top-DevOps-Interview-Questions.pdf) |  [Kubernetes Best Practices](resources/devops/Kubernetes-Best-Practices.pdf) | [250 Practice Questions For Terraform Associate Certification](resources/devops/250-Practice-Questions-For-Terraform-Associate-Certification.pdf) |  
-| -----| -----| -----| -----| -----| 
-|<img src="images/devops/ansible-learning.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/Top-DevOps-Interview-Questions.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/Kubernetes-Best-Practices.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/250-Practice-Questions-For-Terraform-Associate-Certification.jpg" alt="gitlitlab" width="180" height="250"/> |
+| [Learning ansible](resources/devops/ansible-learning.pdf) |  [Top DevOps Interview Questions](resources/devops/Top-DevOps-Interview-Questions.pdf) |  [Kubernetes Best Practices](resources/devops/Kubernetes-Best-Practices.pdf) | [250 Practice Questions For Terraform Associate Certification](resources/devops/250-Practice-Questions-For-Terraform-Associate-Certification.pdf) |  
+| -----| -----| -----| -----| 
+|<img src="images/devops/ansible-learning.jpg" alt="gitlitlab" width="180" height="250"/> |  <img src="images/devops/Top-DevOps-Interview-Questions.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/Kubernetes-Best-Practices.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/250-Practice-Questions-For-Terraform-Associate-Certification.jpg" alt="gitlitlab" width="180" height="250"/> |
 
 
-[Docker & Docker Swarm](resources/devops/Docker&Docker-Swarm.pdf) |   
-| -----| 
-|<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" width="180" height="250"/> | 
+[Docker & Docker Swarm](resources/devops/Docker&Docker-Swarm.pdf) |   [The State of DevOps tools](resources/devops/The-State-of-DevOps-tools.pdf) |  
+| -----| -----| 
+|<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" width="180" height="250"/> |<img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
 
 # Connect with me 📫 You can learn more about me
