@@ -23,13 +23,13 @@ I hope they are useful to you.
 
 | [AWS-Interview-Guide](resources/aws/AWS-Interview-Guide.pdf) | [Implementing DevSecOps in AWS](resources/aws/Implementing-DevSecOps-in-AWS.pdf) |[Awesome AWS Sketchbook](resources/aws/Awesome-AWS-Sketchbook.pdf.pdf) | [AWS Certified Solutions Architect Associate Guide](resources/aws/AWS-Certified-Solutions-Architect-Associate-Guide.pdf) |     
 | -----|----- |----- |----- |
-|<img src="images/aws/AWS-Interview-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/aws/Implementing-DevSecOps-in-AWS.jpg" alt="gitlitlab" width="180" height="250"/> |  <img src="images/aws/Awesome-AWS-Sketchbook.pdf.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/aws/AWS-Certified-Solutions-Architect-Associate-Guide.jpg" alt="gitlitlab" height="250"/> | 
+|<img src="images/aws/AWS-Interview-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/aws/Implementing-DevSecOps-in-AWS.jpg" alt="gitlitlab" width="180" height="250"/> |  <img src="images/aws/Awesome-AWS-Sketchbook.pdf.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/aws/AWS-Certified-Solutions-Architect-Associate-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
 ## AZURE
 
 | [Azure DevOps Complete CICD Pipeline Practical Guide](resources/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.pdf) |      
 | -----|
-|<img src="images/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.jpg" alt="gitlitlab" height="250"/> | 
+|<img src="images/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
 ## GCP
 
