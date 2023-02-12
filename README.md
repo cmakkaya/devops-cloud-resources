@@ -22,32 +22,35 @@ I hope they are useful to you.
 ## AWS
 
 | [AWS-Interview-Guide](resources/aws/AWS-Interview-Guide.pdf) | [Implementing DevSecOps in AWS](resources/aws/Implementing-DevSecOps-in-AWS.pdf) |[Awesome AWS Sketchbook](resources/aws/Awesome-AWS-Sketchbook.pdf.pdf) | [AWS Certified Solutions Architect Associate Guide](resources/aws/AWS-Certified-Solutions-Architect-Associate-Guide.pdf) |     
-| -----|----- |----- |----- |
+| --|-- |-- |-- |
 |<img src="images/aws/AWS-Interview-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/aws/Implementing-DevSecOps-in-AWS.jpg" alt="gitlitlab" width="180" height="250"/> |  <img src="images/aws/Awesome-AWS-Sketchbook.pdf.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/aws/AWS-Certified-Solutions-Architect-Associate-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
 ## AZURE
 
 | [Azure DevOps Complete CICD Pipeline Practical Guide](resources/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.pdf) |      
-| -----|
+| --|
 |<img src="images/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
 ## GCP
 
 | [A Comlete Guide to GCP](resources/gcp/A-Comlete-Guide-to-GCP.pdf) |      
-| -----|
+| --|
 |<img src="images/gcp/A-Comlete-Guide-to-GCP.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
 ## DevOps 
  
 | [Learning ansible](resources/devops/ansible-learning.pdf) |  [Top DevOps Interview Questions](resources/devops/Top-DevOps-Interview-Questions.pdf) |  [Kubernetes Best Practices](resources/devops/Kubernetes-Best-Practices.pdf) | [250 Practice Questions For Terraform Associate Certification](resources/devops/250-Practice-Questions-For-Terraform-Associate-Certification.pdf) |  
-| -----| -----| -----| -----| 
+| --| --| --| --| 
 |<img src="images/devops/ansible-learning.jpg" alt="gitlitlab" width="180" height="250"/> |  <img src="images/devops/Top-DevOps-Interview-Questions.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/Kubernetes-Best-Practices.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/devops/250-Practice-Questions-For-Terraform-Associate-Certification.jpg" alt="gitlitlab" width="180" height="250"/> |
 
 
 [Docker & Docker Swarm](resources/devops/Docker&Docker-Swarm.pdf) |   [The State of DevOps tools](resources/devops/The-State-of-DevOps-tools.pdf) |  
-| -----| -----| 
+| --| --| 
 |<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" width="180" height="250"/> |<img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" width="180" height="250"/> | 
 
+| Topic  | Description | GCPSketchnote Video | GCPSketchnote Image | Other Links |
+| ------ | ----------- |---------------------|-----------|---|
+| **Next 2020 Summary Announcements** | Summary NEXT2020 | [<img src="https://img.youtube.com/vi/7OBTwoBZ404/sddefault.jpg" width=200>](https://www.youtube.com/watch?v=7OBTwoBZ404&list=PLTWE_lmu2InBzuPmOcgAYP7U80a87cpJd) | [<img src="/images/NEXT2020.jpg" width=1100>](https://thecloudgirl.dev/NEXT2020.html) | [<sup>:link:</sup>](https://cloud.google.com/blog/topics/google-cloud-next/complete-list-of-announcements-from-google-cloud-next20-onair)  |
 
 # Connect with me 📫 You can learn more about me
 
