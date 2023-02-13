@@ -25,7 +25,7 @@ I hope they are useful to you.
 
 | [AWS-Interview-Guide](resources/aws/AWS-Interview-Guide.pdf) | [Implementing DevSecOps in AWS](resources/aws/Implementing-DevSecOps-in-AWS.pdf) | [AWS Certified Solutions Architect Associate Guide](resources/aws/AWS-Certified-Solutions-Architect-Associate-Guide.pdf) |     
 | --|-- |-- |
-|<img src="images/aws/AWS-Interview-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | <img src="images/aws/Implementing-DevSecOps-in-AWS.jpg" alt="gitlitlab" width="180" height="250"/> |   <img src="images/aws/AWS-Certified-Solutions-Architect-Associate-Guide.jpg" alt="gitlitlab" width="180" height="250"/> | 
+|<img src="images/aws/AWS-Interview-Guide.jpg" alt="gitlitlab" width="180" /> | <img src="images/aws/Implementing-DevSecOps-in-AWS.jpg" alt="gitlitlab" width="180" /> |   <img src="images/aws/AWS-Certified-Solutions-Architect-Associate-Guide.jpg" alt="gitlitlab" width="180" /> | 
 
 |[AWS Services as SketchBook](resources/aws/AWS-Services-as-Sketchbook.pdf) | [AWS Cloud Practitioner Exam Guide](resources/aws/AWS-Cloud-Practitioner-Exam-Guide.pdf) |     |
 | --|-- |-- |
