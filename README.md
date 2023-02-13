@@ -29,7 +29,7 @@ I hope they are useful to you.
 
 |[AWS Services as SketchBook](resources/aws/AWS-Services-as-Sketchbook.pdf) | [AWS Cloud Practitioner Exam Guide](resources/aws/AWS-Cloud-Practitioner-Exam-Guide.pdf) |     |
 | --|-- |-- |
-|  <img src="images/aws/AWS-Services-as-Sketchbook.jpg" width="180" height="250"/> | <img src="images/aws/AWS-Cloud-Practitioner-Exam-Guide.jpg" width="180" height="250"/> | Add in `Readme.md` |
+|  <img src="images/aws/AWS-Services-as-Sketchbook.jpg" width="180" height="250"/> | <img src="images/aws/AWS-Cloud-Practitioner-Exam-Guide.jpg" width="180" height="250"/> | [Add in `Readme.md`](README.md) |
 
 ## AZURE
 
@@ -41,7 +41,7 @@ I hope they are useful to you.
 
 | [A Comlete Guide to GCP](resources/gcp/A-Comlete-Guide-to-GCP.pdf) |      |
 | --| --|
-|<img src="images/gcp/A-Comlete-Guide-to-GCP.jpg"  width="180" height="250"/> | Add in `Readme.md` |
+|<img src="images/gcp/A-Comlete-Guide-to-GCP.jpg"  width="180" height="250"/> | [Add in `Readme.md`](README.md) |
 
 ## DevOps 
  
@@ -56,7 +56,7 @@ I hope they are useful to you.
 
 | |  
 | --| 
-|Add in `Readme.md`|
+|[Add in `Readme.md`](README.md)|
 
 # Connect with me 📫 You can learn more about me
 
