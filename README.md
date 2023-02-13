@@ -29,19 +29,19 @@ I hope they are useful to you.
 
 |[AWS Services as SketchBook](resources/aws/AWS-Services-as-Sketchbook.pdf) | [AWS Cloud Practitioner Exam Guide](resources/aws/AWS-Cloud-Practitioner-Exam-Guide.pdf) |     |
 | --|-- |-- |
-|  <img src="images/aws/AWS-Services-as-Sketchbook.jpg" width="180" height="250"/> | <img src="images/aws/AWS-Cloud-Practitioner-Exam-Guide.jpg" width="180" height="250"/> | [Add in `Readme.md`](README.md) |
+|  <img src="images/aws/AWS-Services-as-Sketchbook.jpg" width="180" height="250"/> | <img src="images/aws/AWS-Cloud-Practitioner-Exam-Guide.jpg" width="180" height="250"/> | [Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md) |
 
 ## AZURE
 
 | [Azure DevOps Complete CICD Pipeline Practical Guide](resources/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.pdf) |   |   
 | --| --|
-|<img src="images/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.jpg" width="180" height="250"/> | Add in `Readme.md` |
+|<img src="images/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.jpg" width="180" height="250"/> | [Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md) |
 
 ## GCP
 
 | [A Comlete Guide to GCP](resources/gcp/A-Comlete-Guide-to-GCP.pdf) |      |
 | --| --|
-|<img src="images/gcp/A-Comlete-Guide-to-GCP.jpg"  width="180" height="250"/> | [Add in `Readme.md`](README.md) |
+|<img src="images/gcp/A-Comlete-Guide-to-GCP.jpg"  width="180" height="250"/> | [Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md) |
 
 ## DevOps 
  
@@ -56,7 +56,7 @@ I hope they are useful to you.
 
 | |  
 | --| 
-|[Add in `Readme.md`](README.md)|
+|[Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md)|
 
 # Connect with me 📫 You can learn more about me
 
