@@ -74,7 +74,7 @@ You can also contribute by adding new resources to the repository
 | -- |
 | <img src="images/cheatsheets/git4.jpg" alt="gitlitlab" height="150" width="220" /> |
 
-| [Git-Cheatsheet-5](resources/cheatsheets/git5.png) |     
+| [Git-Cheatsheet-5](resources/cheatsheets/git5.pdf) |     
 | -- |
 | <img src="images/cheatsheets/git5.jpg" alt="gitlitlab" height="150" width="220" /> |
 
