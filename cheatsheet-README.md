@@ -7,7 +7,7 @@ You can also contribute by adding new resources to the repository
 
 # cheat sheets
 
-## Note: in order to see cheatsheet documents, click on `the link` not picture. Pictures give a preview of the first page of cheatsheet.
+## Note: in order to see cheatsheet documents, click on `the link` not picture. Pictures give a preview of the first page of cheatsheet or redirect to Github download page for pdf documents.
 
 | [Ansible Poster Cheat sheet](resources/cheatsheets/Ansible+Poster.pdf) |      
 | -- |
@@ -30,7 +30,7 @@ You can also contribute by adding new resources to the repository
 | -- |
 | <img src="images/cheatsheets/docker-cheat-sheet-1.jpg" alt="gitlitlab" height="150" width="220" /> |   
 
-| [Docker-Cheatsheet-2](resources/cheatsheets/docker-cheat-sheet-2.pdf) |     
+| [Docker-Cheatsheet-2](resources/cheatsheets/docker-cheatsheet-2.pdf) |     
 | -- |
 | <img src="images/cheatsheets/docker-cheatsheet-2.jpg" alt="gitlitlab" height="220" width="150" /> | 
 
