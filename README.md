@@ -23,9 +23,11 @@ I hope they are useful to you.
 
 # Resources Library
 
+## Note: in order to see documents, click on `the link` not picture. Pictures give a preview of the first page of documents or redirect to Github download page for pdf documents.
+
 ## AWS
 
-| [AWS-Interview-Guide](resources/aws/AWS-Interview-Guide.pdf) | [Implementing DevSecOps in AWS](resources/aws/Implementing-DevSecOps-in-AWS.pdf) | [AWS Certified Solutions Architect Associate Guide](resources/aws/AWS-Certified-Solutions-Architect-Associate-Guide.pdf) |     
+| [AWS-Interview-Guide](resources/aws/AWS-Interview-Guide.pdf) | [Implementing DevSecOps in AWS](resources/aws/AWS-Implementing-DevSecOps-in-AWS.pdf) | [AWS Certified Solutions Architect Associate Guide](resources/aws/AWS-Certified-Solutions-Architect-Associate-Guide.pdf) |     
 | --|-- |-- |
 |<img src="images/aws/AWS-Interview-Guide.jpg" alt="gitlitlab" width="180" /> | <img src="images/aws/Implementing-DevSecOps-in-AWS.jpg" alt="gitlitlab" width="180" /> |   <img src="images/aws/AWS-Certified-Solutions-Architect-Associate-Guide.jpg" alt="gitlitlab" width="180" /> | 
 
@@ -61,6 +63,8 @@ I hope they are useful to you.
 |[Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md)|
 
 ## Cheat Sheets
+
+## Note: in order to see cheatsheet documents, click on `the link` not picture. Pictures give a preview of the first page of cheatsheet.
 
 | [Cloud and DevOps Cheat Sheets](cheatsheet-README.md) |    
 | --|

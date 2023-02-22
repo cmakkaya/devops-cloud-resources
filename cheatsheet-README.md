@@ -7,6 +7,8 @@ You can also contribute by adding new resources to the repository
 
 # cheat sheets
 
+## Note: in order to see cheatsheet documents, click on `the link` not picture. Pictures give a preview of the first page of cheatsheet.
+
 | [Ansible Poster Cheat sheet](resources/cheatsheets/Ansible+Poster.pdf) |      
 | -- |
 |<img src="images/cheatsheets/Ansible+Poster.jpg" alt="gitlitlab" height="150" width="220" /> | 
