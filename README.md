@@ -13,7 +13,9 @@ You can also contribute by adding new resources to the repository,
 
 I will try to add new resources to the repository regularly, and I will announce them on my linkedin account.
 
-Don't forget to follow [my linkedin](https://www.linkedin.com/in/cumhurakkaya/) or GitHub account to be informed about new updates in the repository.
+Don't forget to follow [my Linkedin](https://www.linkedin.com/in/cumhurakkaya/) or GitHub account to be informed about new updates in the repository.
+
+Also, thank you for giving `stars` to my GitHub.
 
 I hope they are useful to you.
 
@@ -57,6 +59,12 @@ I hope they are useful to you.
 | |  
 | --| 
 |[Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md)|
+
+## Cheat Sheets
+
+| [Cloud and DevOps Cheat Sheets](cheatsheet-README.md) |    
+| --|
+|<img src="images/cheatsheet.jpg" height="300" width="400" /> |
 
 # Connect with me 📫 You can learn more about me
 
