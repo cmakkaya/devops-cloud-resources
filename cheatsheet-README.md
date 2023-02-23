@@ -3,7 +3,13 @@
 You may find cheatsheets about  `DevOps tools`  and  `Cloud System` in this page.
 
 I will try to add new cheatsheet to the repository regularly, and I will announce them on my linkedin account. 
-You can also contribute by adding new resources to the repository
+You can also contribute by adding new resources to the repository.
+
+Also, thank you for giving `stars` to my GitHub.
+
+I hope they are useful to you.
+
+I wish you growing success.
 
 # cheat sheets
 

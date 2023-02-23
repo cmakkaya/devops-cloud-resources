@@ -19,6 +19,7 @@ Also, thank you for giving `stars` to my GitHub.
 
 I hope they are useful to you.
 
+I wish you growing success.
 
 
 # Resources Library
