@@ -1,17 +1,17 @@
-# About cheat sheets page
+# About Cheat Sheets Page
 
-You may find cheatsheets about  `DevOps tools`  and  `Cloud System` in this page.
+🔎 You may find cheatsheets about  `DevOps tools`  and  `Cloud System` in this page.
 
-I will try to add new cheatsheet to the repository regularly, and I will announce them on my linkedin account. 
+📚 I will try to add new cheatsheet to the repository regularly, and I will announce them on my linkedin account. 
 You can also contribute by adding new resources to the repository.
 
-Also, thank you for giving `stars` to my GitHub.
+⭐ Also, thank you for giving `stars` to my GitHub.
 
 I hope they are useful to you.
 
-I wish you growing success.
+🙏 I wish you growing success.
 
-# cheat sheets
+# Cheat sheets
 
 ## Note: in order to see cheatsheet documents, click on `the link` not picture. Pictures give a preview of the first page of cheatsheet or redirect to Github download page for pdf documents.
 

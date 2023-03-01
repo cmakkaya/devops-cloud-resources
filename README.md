@@ -1,13 +1,13 @@
-# devops-cloud-resources
+# DevOps-Cloud-Resources
 
 ![picture of article](./entry.jpg)
 
 ## About This Repository
 
 
-You may find resources (books, notes, interview questions, exam questions, cheat sheets, whitepapers, guides, hands-on, handbooks, etc.) about  `DevOps`  and  `Cloud System`.
+🔎 You may find resources (books, notes, interview questions, exam questions, cheat sheets, whitepapers, guides, hands-on, handbooks, etc.) about  `DevOps`  and  `Cloud System`.
 
-In this repository, I am adding useful resources here to reach them when I need them, and also maybe they can be helpful to others.
+📚 In this repository, I am adding useful resources here to reach them when I need them, and also maybe they can be helpful to others.
 
 You can also contribute by adding new resources to the repository,
 
@@ -15,16 +15,17 @@ I will try to add new resources to the repository regularly, and I will announce
 
 Don't forget to follow [my Linkedin](https://www.linkedin.com/in/cumhurakkaya/) or GitHub account to be informed about new updates in the repository.
 
-Also, thank you for giving `stars` to my GitHub.
+⭐ Also, thank you for giving `stars` to my GitHub.
 
 I hope they are useful to you.
 
-I wish you growing success.
+🙏 I wish you growing success.
 
 
 # Resources Library
 
-## Note: in order to see documents, click on `the link` not picture. Pictures give a preview of the first page of documents or redirect to Github download page for pdf documents.
+## Note: 
+In order to see documents, click on `the links below` not the picture. Pictures give a preview of the first page of documents or redirect to Github download page for pdf documents.
 
 ## AWS
 
@@ -37,10 +38,13 @@ I wish you growing success.
 |  <img src="images/aws/AWS-Services-as-Sketchbook.jpg" width="180" /> | <img src="images/aws/AWS-Cloud-Practitioner-Exam-Guide.jpg" width="180" /> | [Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md) |
 
 ## AZURE
+## Note: 
+In order to see Microsoft Azure documents, click on [the link](azure-README.md) not the picture. Pictures give a preview of the first page of Microsoft Azure documents.
 
-| [Azure DevOps Complete CICD Pipeline Practical Guide](resources/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.pdf) |   |   
-| --| --|
-|<img src="images/azure/Azure-DevOps-Complete-CICD-Pipeline-Practical-Guide.jpg" width="180" /> | [Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md) |
+| [Microsoft Azure Documents](azure-README.md) |    
+| --|
+|<img src="images/azure.jpg" height="400" width="400" /> |
+
 
 ## GCP
 
@@ -65,7 +69,8 @@ I wish you growing success.
 
 ## Cheat Sheets
 
-## Note: in order to see cheatsheet documents, click on `the link` not picture. Pictures give a preview of the first page of cheatsheet.
+## Note: 
+In order to see cheatsheet documents, click on [the link](cheatsheet-README.md) not picture. Pictures give a preview of the first page of cheatsheet.
 
 | [Cloud and DevOps Cheat Sheets](cheatsheet-README.md) |    
 | --|
