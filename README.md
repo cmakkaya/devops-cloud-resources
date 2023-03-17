@@ -75,7 +75,7 @@ Note: In order to see Microsoft Azure documents, click on [the page link](azure-
 | --| --| --| 
 |<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" width="180" /> |<img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" width="180" /> | <img src="images/devops/250-Practice-Questions-For-Terraform-Associate-Certification.jpg" alt="gitlitlab" width="180" /> |
 
-
+Note: In order to see The other DevOps documents, click on [the page link](devops-README.md) not picture. Pictures give a preview of the first page of devops documents.
 | [The other DevOps documents page](devops-README.md)  - [the page link](devops-README.md)|    
 | --|
 |<img src="images/devops/devops.jpg" height="550" width="470" /> |
