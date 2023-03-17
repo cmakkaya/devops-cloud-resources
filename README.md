@@ -39,7 +39,7 @@ In order to see documents, click on `the links below` not the picture. Pictures 
 
 ## AZURE
 ## Note: 
-In order to see Microsoft Azure documents, click on [the link](azure-README.md) not the picture. Pictures give a preview of the first page of Microsoft Azure documents.
+In order to see Microsoft Azure documents, click on [the page link](azure-README.md) not the picture. Pictures give a preview of the first page of Microsoft Azure documents.
 
 | [Microsoft Azure Documents](azure-README.md) |    
 | --|
@@ -63,14 +63,15 @@ In order to see Microsoft Azure documents, click on [the link](azure-README.md) 
 | --| --| --| 
 |<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" width="180" /> |<img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" width="180" /> | <img src="images/devops/250-Practice-Questions-For-Terraform-Associate-Certification.jpg" alt="gitlitlab" width="180" /> |
 
-| |  
-| --| 
-|[Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md)|
+
+| [The other DevOps documents page](devops-README.md)  - [the page link](cheatsheet-README.md)|    
+| --|
+|<img src="images/devops/devops.jpg" height="500" width="420" /> |
 
 ## Cheat Sheets
 
 ## Note: 
-In order to see cheatsheet documents, click on [the link](cheatsheet-README.md) not picture. Pictures give a preview of the first page of cheatsheet.
+In order to see cheatsheet documents, click on [the page link](cheatsheet-README.md) not picture. Pictures give a preview of the first page of cheatsheet.
 
 | [Cloud and DevOps Cheat Sheets](cheatsheet-README.md) |    
 | --|

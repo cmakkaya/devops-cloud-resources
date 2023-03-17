@@ -128,6 +128,10 @@ I hope they are useful to you.
 | -- |
 | <img src="images/cheatsheets/linux-commands-cheat-sheet-pnap_Phoenix_short.jpg" alt="gitlitlab" height="150" width="220" /> |
 
+| [ Linux Commands Cheat Sheet ](resources/devops/Linux-Commands-Cheat-Sheet-20-pages.pdf) | 
+| --| 
+|<img src="images/devops/Linux-Commands-Cheat-Sheet-20-pages.jpg" height="250" width="180" /> |
+
 | [Nano cheatsheet](resources/cheatsheets/Nano-cheatsheet_mesut.pdf) |     
 | -- |
 | <img src="images/cheatsheets/Nano-cheatsheet_mesut.jpg" alt="gitlitlab" height="150" width="220" /> |
