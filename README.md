@@ -23,11 +23,17 @@ I hope they are useful to you.
 
 
 # Resources Library
+Resources Library consists of 5 sections: 
+1. AWS Resources
+2. Azure Resources
+3. GCP Resources
+4. DevOps Resources
+5. Cheat Sheets 
 
 ## Note: 
 In order to see documents, click on `the links below` not the picture. Pictures give a preview of the first page of documents or redirect to Github download page for pdf documents.
 
-## AWS
+# AWS Resources
 
 | [AWS-Interview-Guide](resources/aws/AWS-Interview-Guide.pdf) | [Implementing DevSecOps in AWS](resources/aws/Aws-Implementing-DevSecOps-in-AWS.pdf) | [AWS Certified Solutions Architect Associate Guide](resources/aws/AWS-Certified-Solutions-Architect-Associate-Guide.pdf) |     
 | --|-- |-- |
@@ -37,22 +43,28 @@ In order to see documents, click on `the links below` not the picture. Pictures 
 | --|-- |-- |
 |  <img src="images/aws/AWS-Services-as-Sketchbook.jpg" width="180" /> | <img src="images/aws/AWS-Cloud-Practitioner-Exam-Guide.jpg" width="180" /> | [Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md) |
 
-## AZURE
-## Note: 
-In order to see Microsoft Azure documents, click on [the page link](azure-README.md) not the picture. Pictures give a preview of the first page of Microsoft Azure documents.
 
-| [Microsoft Azure Documents](azure-README.md) |    
+
+# AZURE Resources
+Note: In order to see Microsoft Azure documents, click on [the page link](azure-README.md) not the picture. Pictures give a preview of the first page of Microsoft Azure documents.
+
+| [Microsoft Azure Documents](azure-README.md)   - [the page link](azure-README.md)|    
 | --|
-|<img src="images/azure.jpg" height="400" width="400" /> |
+|<img src="images/azure.jpg" height="500" width="500" /> |
 
 
-## GCP
+
+
+# GCP Resources
 
 | [A Comlete Guide to GCP](resources/gcp/A-Comlete-Guide-to-GCP.pdf) |      |
 | --| --|
 |<img src="images/gcp/A-Comlete-Guide-to-GCP.jpg"  width="180" /> | [Add in `Readme.md`](https://github.com/cmakkaya/devops-cloud-resources/edit/main/README.md) |
 
-## DevOps 
+
+
+
+# DevOps Resources
  
 | [Learning ansible](resources/devops/ansible-learning.pdf) |  [Top DevOps Interview Questions](resources/devops/Top-DevOps-Interview-Questions.pdf) |  [Kubernetes Best Practices](resources/devops/Kubernetes-Best-Practices.pdf) | 
 | --| --| --|
@@ -64,18 +76,23 @@ In order to see Microsoft Azure documents, click on [the page link](azure-README
 |<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" width="180" /> |<img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" width="180" /> | <img src="images/devops/250-Practice-Questions-For-Terraform-Associate-Certification.jpg" alt="gitlitlab" width="180" /> |
 
 
-| [The other DevOps documents page](devops-README.md)  - [the page link](cheatsheet-README.md)|    
+| [The other DevOps documents page](devops-README.md)  - [the page link](devops-README.md)|    
 | --|
-|<img src="images/devops/devops.jpg" height="500" width="420" /> |
+|<img src="images/devops/devops.jpg" height="550" width="470" /> |
 
-## Cheat Sheets
 
-## Note: 
-In order to see cheatsheet documents, click on [the page link](cheatsheet-README.md) not picture. Pictures give a preview of the first page of cheatsheet.
 
-| [Cloud and DevOps Cheat Sheets](cheatsheet-README.md) |    
+
+# Cheat Sheets
+
+Note: In order to see cheatsheet documents, click on [the page link](cheatsheet-README.md) not picture. Pictures give a preview of the first page of cheatsheet.
+
+| [Cloud and DevOps Cheat Sheets](cheatsheet-README.md)   - [the page link](cheatsheet-README.md)|    
 | --|
 |<img src="images/cheatsheet.jpg" height="300" width="400" /> |
+
+
+
 
 # Connect with me 📫 You can learn more about me
 
