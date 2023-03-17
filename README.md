@@ -23,15 +23,18 @@ I hope they are useful to you.
 
 
 # Resources Library
-Resources Library consists of 5 sections: 
+### Resources Library consists of 5 sections: 
 1. AWS Resources
 2. Azure Resources
 3. GCP Resources
 4. DevOps Resources
 5. Cheat Sheets 
 
-## Note: 
-In order to see documents, click on `the links below` not the picture. Pictures give a preview of the first page of documents or redirect to Github download page for pdf documents.
+### Note: 
+1. In order to see documents, click on `the links below` not the picture. Pictures give a preview of the first page of documents or redirect to Github download page for pdf documents.
+2. If you get a "`Unable to render rich display`" error when opening documents, click on `Download` and download the document to your computer then open it.
+3. Don't forget to report `broken links` to me, please.
+
 
 # AWS Resources
 
