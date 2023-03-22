@@ -73,6 +73,9 @@ In order to see DevOps documents, click on `the link` not the picture. Pictures 
 | -- |
 | <img src="images/azure/Kubernetes-on-Azure.jpg" alt="cmakkaya" height="250" width="180" /> |
 
+| [Exploring Cloud Computing](resources/devops/Exploring-Cloud-Computing.pdf) | 
+| --| 
+|<img src="images/devops/Exploring-Cloud-Computing.jpg" height="250" width="180" /> |
 
 
 # Connect with me 📫 You can learn more about me
