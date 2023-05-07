@@ -77,6 +77,13 @@ In order to see DevOps documents, click on `the link` not the picture. Pictures 
 | --| 
 |<img src="images/devops/Exploring-Cloud-Computing.jpg" height="250" width="180" /> |
 
+| [Ansible for DevOps - Jeff Geerling](resources/devops/ansible-for-devops.pdf) | 
+| --| 
+|<img src="images/devops/ansible-for-devops.jpg" height="250" width="180" /> |
+
+| [Learning Ansible](resources/devops/ansible-learning.pdf) | 
+| --|
+|<img src="images/devops/ansible-learning.jpg" alt="gitlitlab" width="180" /> |
 
 # Connect with me 📫 You can learn more about me
 
