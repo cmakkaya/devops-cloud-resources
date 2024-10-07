@@ -11,9 +11,9 @@
 
 You can also contribute by adding new resources to the repository,
 
-I will try to add new resources to the repository regularly, and I will announce them on my linkedin account.
+I will try to add new resources to the repository regularly, and I will announce them on my LinkedIn account.
 
-Don't forget to follow [my Linkedin](https://www.linkedin.com/in/cumhurakkaya/) or GitHub account to be informed about new updates in the repository.
+✏️ Don't forget to follow [my LinkedIn account](https://www.linkedin.com/in/cumhurakkaya/) or [my Medium account](https://cmakkaya.medium.com/)  to be informed about new updates in the repository.
 
 ⭐ Also, thank you for giving `stars` to my GitHub.
 
