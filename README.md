@@ -21,6 +21,12 @@ I hope they are useful to you.
 
 🙏 I wish you growing success.
 
+## Important Notice:
+You can find PDF ebooks on DevOps, DevSecOps, SRE, CISO, and Cloud Computing that I have compiled from this repo and other GitHub repos, LinkedIn shares, technical blogs, the official website, and other trusted sources in this [article](). I have indexed the cover pages, author and page count, and introductions. [
+I recommend that you take a look. 🎯 You'll definitely find valuable resources there. Happy reading! ☕
+You can reach this archive compiled in the Medium article from the link below.
+[2025's Largest Free DevOps, Cloud, DevSecOps PDF eBooks Library - 600+ Downloadable Updated PDF Collection]().
+
 
 # Resources Library
 ### Resources Library consists of 5 sections: 
@@ -28,11 +34,13 @@ I hope they are useful to you.
 2. Azure Resources
 3. GCP Resources
 4. DevOps Resources
-5. Cheat Sheets 
+5. Cheat Sheets
+6. August 2024 updates
+7. May 2025 updates
 
 ### Note: 
 1. In order to see documents, click on `the links below`, not the picture. Pictures give a preview of the first page of documents or redirect to the GitHub download page for PDF documents.
-2. If you get a "`Unable to render rich display`" error when opening documents, click on `Download` and download the document to your computer, then open it.
+2. If you get an "`Unable to render rich display`" error when opening documents, click on `Download` and download the document to your computer, then open it.
 3. Don't forget to report `broken links` to me, please.
 
 
