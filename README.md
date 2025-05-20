@@ -21,10 +21,12 @@ I hope they are useful to you.
 
 🙏 I wish you growing success.
 
-## Important Notice:
-You can find PDF ebooks on DevOps, DevSecOps, SRE, CISO, and Cloud Computing that I have compiled from this repo and other GitHub repos, LinkedIn shares, technical blogs, the official website, and other trusted sources in this [article](). I have indexed the cover pages, author and page count, and introductions. [
-I recommend that you take a look. 🎯 You'll definitely find valuable resources there. Happy reading! ☕
-You can reach this archive compiled in the Medium article from the link below.
+## 📢 Important Notice ❗ 
+📚 You can find PDF ebooks on DevOps, DevSecOps, SRE, CISO, and Cloud Computing that I have compiled from this repo and other GitHub repos, LinkedIn shares, technical blogs, the official website, and other trusted sources in this [article](). I have indexed the cover pages, author and page count, and introductions.
+
+🎯 I recommend that you take a look.  You'll definitely find valuable resources there. Happy reading! ☕
+
+🔗 You can reach this archive compiled in the Medium article from the link below.
 [2025's Largest Free DevOps, Cloud, DevSecOps PDF eBooks Library - 600+ Downloadable Updated PDF Collection]().
 
 
