@@ -31,8 +31,8 @@ I hope they are useful to you.
 5. Cheat Sheets 
 
 ### Note: 
-1. In order to see documents, click on `the links below` not the picture. Pictures give a preview of the first page of documents or redirect to Github download page for pdf documents.
-2. If you get a "`Unable to render rich display`" error when opening documents, click on `Download` and download the document to your computer then open it.
+1. In order to see documents, click on `the links below`, not the picture. Pictures give a preview of the first page of documents or redirect to the GitHub download page for PDF documents.
+2. If you get a "`Unable to render rich display`" error when opening documents, click on `Download` and download the document to your computer, then open it.
 3. Don't forget to report `broken links` to me, please.
 
 
@@ -49,7 +49,7 @@ I hope they are useful to you.
 
 
 # AZURE Resources
-Note: In order to see Microsoft Azure documents, click on [the page link](azure-README.md) not the picture. Pictures give a preview of the first page of Microsoft Azure documents.
+Note: In order to see Microsoft Azure documents, click on [the page link](azure-README.md), not the picture. Pictures give a preview of the first page of the Microsoft Azure documents.
 
 | [Microsoft Azure Documents](azure-README.md)   - [the page link](azure-README.md)|    
 | --|
@@ -78,7 +78,7 @@ Note: In order to see Microsoft Azure documents, click on [the page link](azure-
 | --| --| --| 
 |<img src="images/devops/Docker&Docker-Swarm.jpg" alt="gitlitlab" width="180" /> |<img src="images/devops/The-State-of-DevOps-tools.jpg" alt="gitlitlab" width="180" /> | <img src="images/devops/250-Practice-Questions-For-Terraform-Associate-Certification.jpg" alt="gitlitlab" width="180" /> |
 
-Note: In order to see The other DevOps documents, click on [the page link](devops-README.md) not picture. Pictures give a preview of the first page of devops documents.
+Note: In order to see the other DevOps documents, click on [the page link](devops-README.md), not the picture. Pictures give a preview of the first page of the DevOps documents.
 | [The other DevOps documents page](devops-README.md)  - [the page link](devops-README.md)|    
 | --|
 |<img src="images/devops/devops.jpg" height="550" width="470" /> |
@@ -88,13 +88,19 @@ Note: In order to see The other DevOps documents, click on [the page link](devop
 
 # Cheat Sheets
 
-Note: In order to see cheatsheet documents, click on [the page link](cheatsheet-README.md) not picture. Pictures give a preview of the first page of cheatsheet.
+Note: In order to see cheatsheet documents, click on [the page link](cheatsheet-README.md), not the picture. Pictures give a preview of the first page of the cheatsheet.
 
 | [Cloud and DevOps Cheat Sheets](cheatsheet-README.md)   - [the page link](cheatsheet-README.md)|    
 | --|
 |<img src="images/cheatsheet.jpg" height="300" width="400" /> |
 
+# August 2024 updates
+Click on [the link]() to see the files.
+![image](https://github.com/user-attachments/assets/ad80c141-04b5-4f01-af8f-c57f221fc79d)
 
+# May 2025 updates
+Click on [the link](resources/Agu_2024) to see the files.
+![image](https://github.com/user-attachments/assets/1ace5e95-9581-493b-a3c4-4214f8eeaf89)
 
 
 # Connect with me 📫 You can learn more about me
