@@ -99,7 +99,7 @@ Click on [the link](https://github.com/cmakkaya/devops-cloud-resources/tree/main
 ![image](https://github.com/user-attachments/assets/ad80c141-04b5-4f01-af8f-c57f221fc79d)
 
 # May 2025 updates
-Click on [the link](resources/Agu_2024) to see the files.
+Click on [the link](https://github.com/cmakkaya/devops-cloud-resources/tree/main/resources/May_2025) to see the files.
 ![image](https://github.com/user-attachments/assets/1ace5e95-9581-493b-a3c4-4214f8eeaf89)
 
 
