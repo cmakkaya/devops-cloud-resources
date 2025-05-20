@@ -36,7 +36,7 @@ You can reach this archive compiled in the Medium article from the link below.
 4. DevOps Resources
 5. Cheat Sheets
 6. August 2024 updates
-7. May 2025 updates
+7. May 2025 updates (✨New!🛎️)
 
 ### Note: 
 1. In order to see documents, click on `the links below`, not the picture. Pictures give a preview of the first page of documents or redirect to the GitHub download page for PDF documents.
