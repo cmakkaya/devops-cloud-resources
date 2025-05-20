@@ -95,7 +95,7 @@ Note: In order to see cheatsheet documents, click on [the page link](cheatsheet-
 |<img src="images/cheatsheet.jpg" height="300" width="400" /> |
 
 # August 2024 updates
-Click on [the link]() to see the files.
+Click on [the link](https://github.com/cmakkaya/devops-cloud-resources/tree/main/resources/Agu_2024) to see the files.
 ![image](https://github.com/user-attachments/assets/ad80c141-04b5-4f01-af8f-c57f221fc79d)
 
 # May 2025 updates
