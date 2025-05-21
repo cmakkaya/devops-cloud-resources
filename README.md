@@ -22,12 +22,22 @@ I hope they are useful to you.
 🙏 I wish you growing success.
 
 ## 📢 Important Notice ❗ 
-📚 You can find PDF ebooks on DevOps, DevSecOps, SRE, CISO, and Cloud Computing that I have compiled from this repo and other GitHub repos, LinkedIn shares, technical blogs, the official website, and other trusted sources in this [article](). I have indexed the cover pages, author and page count, and introductions.
+📚 You can find PDF ebooks on DevOps, DevSecOps, SRE, CISO, and Cloud Computing that I have compiled from this repo and other GitHub repos, LinkedIn shares, technical blogs, the official website, and other trusted sources in this [article](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b). I have indexed the cover pages, author and page count, and introductions.
 
 🎯 I recommend that you take a look.  You'll definitely find valuable resources there. Happy reading! ☕
 
 🔗 You can reach this archive compiled in the Medium article from the link below.
-[2025's Largest Free DevOps, Cloud, DevSecOps PDF eBooks Library - 600+ Downloadable Updated PDF Collection]().
+[2025's Largest Free DevOps, Cloud, DevSecOps PDF eBooks Library - 600+ Downloadable Updated PDF Collection](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b).
+🚀 2025’s the most comprehensive DevOps, DevSecOps, SRE, CISO, and Cloud Computing PDF eBooks archive online - Contains 617 Free Downloadable PDFs.
+
+🔍 Are you looking to level up your DevOps/DevSecOps and Cloud Computing skills in 2025 by accessing the best PDF eBook library on the web? You’re in the right place. This article has 617 📚 downloadable PDF documents, and they are the largest & most updated collection of IT Technologies — all in one place!
+This curated library covers everything from Docker, Git, Mock Exams, Cloud / DevOps Interview Questions, AWS/Azure/GCP cloud fundamentals, to advanced topics like Kubernetes, Terraform, CI/CD tools, Scripting, Python, Databases, Operating Systems, Cloud Architecture, and more.
+
+🧠 As a working DevOps and Cloud engineer, I constantly gather and read documentation to solve real-world infrastructure, network, automation, integration, security, and other various problems that I encounter. Over the years, I’ve personally compiled this collection from various GitHub repos, LinkedIn shares, technical blogs, the official website, and other trusted sources, then archived them 📂.
+
+🤝 Instead of keeping this archive private, I’m sharing it to benefit the community. It would be great if you could share it too, so it can reach more people like you. This archive is not just an eBook list; it is a curated library prepared for professionals, learners, engineers, and job seekers in the IT field.
+
+🎯 You’ll definitely find valuable resources here. Happy reading! ☕
 
 
 # Resources Library
