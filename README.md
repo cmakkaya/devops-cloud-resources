@@ -8,7 +8,7 @@
 
 🧠 While working as a DevOps and Cloud engineer, I have been constantly researching and reading documentation to solve various real-world infrastructure, networking, automation, integration, security, and other problems that I encounter. Over the years, I’ve personally compiled this collection from various GitHub repositories, LinkedIn shares, technical blogs, the official websites, and other reliable sources, and then archived them 📂.
 
-🤝 Instead of keeping this archive private, I’m sharing it to benefit the community. It would be great if you could share it too, so it can reach more people like you. This archive is not just an eBook list; it is a curated library prepared for professionals, learners, engineers, and job seekers in the IT field.
+🤝 Instead of keeping this archive private, I’m sharing it to benefit the community. 🌐 It would be great if you could `share` it too, so it can reach more people like you. This archive is not just an eBook list; it is a curated library prepared for professionals, learners, engineers, and job seekers in the IT field.
 This curated PDF library covers everything from Docker, Git, Mock Exams, Cloud / DevOps Interview Questions, AWS/Azure/GCP cloud fundamentals, to advanced topics like Kubernetes, Terraform, CI/CD tools, Scripting, Python, Databases, Operating Systems, Cloud Architecture, and more. Happy reading! ☕
 
 #
@@ -26,8 +26,9 @@ This curated PDF library covers everything from Docker, Git, Mock Exams, Cloud /
 
 🔗 You can reach this archive compiled in the Medium article:
 [2025's Largest Free DevOps, Cloud, DevSecOps PDF eBooks Library - 600+ Downloadable Updated PDF Collection](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b).
+![image](https://github.com/user-attachments/assets/3307166b-8bb0-4800-8087-4f656ca6becd)
 
-🚀 2025’s the most comprehensive DevOps, DevSecOps, SRE, CISO, and Cloud Computing PDF eBooks archive online - Contains 617 Free Downloadable PDFs.
+🚀 2025’s the most comprehensive DevOps, DevSecOps, SRE, CISO, and Cloud Computing PDF eBooks archive online - Contains 617 Free Downloadable PDFs in [this article](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b).
 🔍 Are you looking to level up your DevOps/DevSecOps and Cloud Computing skills in 2025 by accessing the best PDF eBook library on the web? You’re in the right place. This article has 617 📚 downloadable PDF documents, and they are the largest & most updated collection of IT Technologies — all in one place!
 This curated library covers everything from Docker, Git, Mock Exams, Cloud / DevOps Interview Questions, AWS/Azure/GCP cloud fundamentals, to advanced topics like Kubernetes, Terraform, CI/CD tools, Scripting, Python, Databases, Operating Systems, Cloud Architecture, and more.
 
