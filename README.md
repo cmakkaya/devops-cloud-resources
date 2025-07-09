@@ -16,12 +16,12 @@ This curated PDF library covers everything from Docker, Git, Mock Exams, Cloud /
 📢 I will regularly add new resources to the repository and announce them on [my LinkedIn account](https://www.linkedin.com/in/cumhurakkaya/) or [my Medium account](https://cmakkaya.medium.com/). 
 ✏️ Don't forget to follow to be informed about new updates.
 
-⭐ Also, thank you for giving `stars` to my GitHub. I hope they are useful to you.  🙏 I wish you growing success.
+⭐ Also, thank you for giving `stars` to my GitHub.  I hope they are useful to you.  🙏 I wish you growing success.
 
 #
 
 # 📢 Important Notice ❗ 
-📚 Books in this repo and books from other GitHub repositories, LinkedIn shares, technical blogs, the official websites, and other reliable sources have been brought together in [this article](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b). `I have indexed the cover pages, author, and page count, and introductions.` You can find PDF ebooks on DevOps, DevSecOps, SRE, CISO, and Cloud Computing in [this article](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b). 
+📚 Books in this repo and books from other GitHub repositories, LinkedIn shares, technical blogs, the official websites, and other reliable sources have been brought together in [this article](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b) by me. `I have indexed the cover pages, author, page count, and introductions.` You can find PDF ebooks on DevOps, DevSecOps, SRE, CISO, and Cloud Computing in [this article](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b). 
 🎯 I recommend that you take a look.  You'll definitely find valuable resources there. Happy reading! ☕
 
 🔗 You can reach this archive compiled in the Medium article:
