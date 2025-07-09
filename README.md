@@ -1,44 +1,37 @@
-# DevOps-Cloud-Resources (PDF Books)
+# DevOps-DevSecOps-Cloud-Resources (PDF Books)
 
 ![picture of article](./entry.jpg)
 
 ## About This Repository
 
+🔎 You'll definitely find valuable resources  (books, notes, interview questions, exam questions, cheat sheets, whitepapers, guides, hands-on, handbooks, etc.) about  `DevOps/DevSecOps Tools`  and  `Cloud Systems` in here. 
 
-🔎 You may find resources (books, notes, interview questions, exam questions, cheat sheets, whitepapers, guides, hands-on, handbooks, etc.) about  `DevOps Tools`  and  `Cloud Systems`.
+🧠 While working as a DevOps and Cloud engineer, I have been constantly researching and reading documentation to solve various real-world infrastructure, networking, automation, integration, security, and other problems that I encounter. Over the years, I’ve personally compiled this collection from various GitHub repositories, LinkedIn shares, technical blogs, the official websites, and other reliable sources, and then archived them 📂.
 
-📚 In this repository, I am adding useful resources here to reach them when I need them, and also maybe they can be helpful to others.
+🤝 Instead of keeping this archive private, I’m sharing it to benefit the community. It would be great if you could share it too, so it can reach more people like you. This archive is not just an eBook list; it is a curated library prepared for professionals, learners, engineers, and job seekers in the IT field.
+This curated PDF library covers everything from Docker, Git, Mock Exams, Cloud / DevOps Interview Questions, AWS/Azure/GCP cloud fundamentals, to advanced topics like Kubernetes, Terraform, CI/CD tools, Scripting, Python, Databases, Operating Systems, Cloud Architecture, and more. Happy reading! ☕
 
-You can also contribute by adding new resources to the repository,
+#
 
-I will try to add new resources to the repository regularly, and I will announce them on my LinkedIn account.
+📢 I will regularly add new resources to the repository and announce them on [my LinkedIn account](https://www.linkedin.com/in/cumhurakkaya/) or [my Medium account](https://cmakkaya.medium.com/). 
+✏️ Don't forget to follow to be informed about new updates.
 
-✏️ Don't forget to follow [my LinkedIn account](https://www.linkedin.com/in/cumhurakkaya/) or [my Medium account](https://cmakkaya.medium.com/)  to be informed about new updates in the repository.
+⭐ Also, thank you for giving `stars` to my GitHub. I hope they are useful to you.  🙏 I wish you growing success.
 
-⭐ Also, thank you for giving `stars` to my GitHub.
+#
 
-I hope they are useful to you.
-
-🙏 I wish you growing success.
-
-## 📢 Important Notice ❗ 
-📚 You can find PDF ebooks on DevOps, DevSecOps, SRE, CISO, and Cloud Computing that I have compiled from this repo and other GitHub repos, LinkedIn shares, technical blogs, the official website, and other trusted sources in this [article](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b). I have indexed the cover pages, author and page count, and introductions.
-
+# 📢 Important Notice ❗ 
+📚 Books in this repo and books from other GitHub repositories, LinkedIn shares, technical blogs, the official websites, and other reliable sources have been brought together in [this article](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b). `I have indexed the cover pages, author, and page count, and introductions.` You can find PDF ebooks on DevOps, DevSecOps, SRE, CISO, and Cloud Computing in [this article](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b). 
 🎯 I recommend that you take a look.  You'll definitely find valuable resources there. Happy reading! ☕
 
-🔗 You can reach this archive compiled in the Medium article from the link below.
+🔗 You can reach this archive compiled in the Medium article:
 [2025's Largest Free DevOps, Cloud, DevSecOps PDF eBooks Library - 600+ Downloadable Updated PDF Collection](https://cmakkaya.medium.com/2025s-largest-free-devops-cloud-devsecops-pdf-ebooks-library-600-downloadable-updated-pdf-4d93c894bd41#7d9b).
-🚀 2025’s the most comprehensive DevOps, DevSecOps, SRE, CISO, and Cloud Computing PDF eBooks archive online - Contains 617 Free Downloadable PDFs.
 
+🚀 2025’s the most comprehensive DevOps, DevSecOps, SRE, CISO, and Cloud Computing PDF eBooks archive online - Contains 617 Free Downloadable PDFs.
 🔍 Are you looking to level up your DevOps/DevSecOps and Cloud Computing skills in 2025 by accessing the best PDF eBook library on the web? You’re in the right place. This article has 617 📚 downloadable PDF documents, and they are the largest & most updated collection of IT Technologies — all in one place!
 This curated library covers everything from Docker, Git, Mock Exams, Cloud / DevOps Interview Questions, AWS/Azure/GCP cloud fundamentals, to advanced topics like Kubernetes, Terraform, CI/CD tools, Scripting, Python, Databases, Operating Systems, Cloud Architecture, and more.
 
-🧠 As a working DevOps and Cloud engineer, I constantly gather and read documentation to solve real-world infrastructure, network, automation, integration, security, and other various problems that I encounter. Over the years, I’ve personally compiled this collection from various GitHub repos, LinkedIn shares, technical blogs, the official website, and other trusted sources, then archived them 📂.
-
-🤝 Instead of keeping this archive private, I’m sharing it to benefit the community. It would be great if you could share it too, so it can reach more people like you. This archive is not just an eBook list; it is a curated library prepared for professionals, learners, engineers, and job seekers in the IT field.
-
-🎯 You’ll definitely find valuable resources here. Happy reading! ☕
-
+#
 
 # Resources Library
 ### Resources Library consists of 5 sections: 
