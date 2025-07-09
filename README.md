@@ -4,9 +4,9 @@
 
 ## About This Repository
 
-🔎 You'll definitely find valuable resources  (books, notes, interview questions, exam questions, cheat sheets, whitepapers, guides, hands-on, handbooks, etc.) about  `DevOps/DevSecOps Tools`  and  `Cloud Systems` in here. 
-
 🧠 While working as a DevOps and Cloud engineer, I have been constantly researching and reading documentation to solve various real-world infrastructure, networking, automation, integration, security, and other problems that I encounter. Over the years, I’ve personally compiled this collection from various GitHub repositories, LinkedIn shares, technical blogs, the official websites, and other reliable sources, and then archived them 📂.
+
+🔎 You'll definitely find valuable resources  (books, notes, interview questions, exam questions, cheat sheets, whitepapers, guides, hands-on, handbooks, etc.) about  `DevOps/DevSecOps Tools`  and  `Cloud Systems` in here. 
 
 🤝 Instead of keeping this archive private, I’m sharing it to benefit the community. 🌐 It would be great if you could `share` it too, so it can reach more people like you. This archive is not just an eBook list; it is a curated library prepared for professionals, learners, engineers, and job seekers in the IT field.
 This curated PDF library covers everything from Docker, Git, Mock Exams, Cloud / DevOps Interview Questions, AWS/Azure/GCP cloud fundamentals, to advanced topics like Kubernetes, Terraform, CI/CD tools, Scripting, Python, Databases, Operating Systems, Cloud Architecture, and more. Happy reading! ☕
